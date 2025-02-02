@@ -2,7 +2,7 @@ import React from "react";
 import "./App.scss";
 import Main from "./containers/Main";
 import About from "./containers/About";
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import {HashRouter as Router, Routes, Route} from 'react-router-dom';
 import Contact from "./containers/Contact";
 import Work from "./containers/Work";
 import Portfolio from "./containers/Portfolio";
