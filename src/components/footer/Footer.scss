@@ -1,0 +1,26 @@
+@import "../../_globalColor";
+
+.footer-text {
+  text-align: center;
+  color: $subTitle !important;
+}
+
+.dark-mode {
+  color: $textColorDark !important;
+}
+
+.footer-div {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+  min-height: 300px;
+}
+@media (max-width: 900px) {
+  .footer-div {
+    min-height: 450px;
+  }
+}
+@media (min-width: 901px) and (max-width: 1390px) {
+  .footer-div {
+    min-height: 450px;
+  }
+}
