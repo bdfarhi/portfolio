@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0574a33f.css",
+    "main.js": "/portfolio/static/js/main.bb25c8be.js",
+    "static/css/990.c6a7ee28.chunk.css": "/portfolio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.190edf9b.chunk.js": "/portfolio/static/js/990.190edf9b.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/bbb.jpg": "/portfolio/static/media/bbb.2cb7543dcb57ef16150e.jpg",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/bufmao.jpg": "/portfolio/static/media/bufmao.072b92d573d0028fc5e2.jpg",
+    "static/media/aiweb.png": "/portfolio/static/media/aiweb.5a155ff025efd15ed0a8.png",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/dartpic.jpg": "/portfolio/static/media/dartpic.d8b533ee202dad08ae51.jpg",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/UB.webp": "/portfolio/static/media/UB.3d72e285ed4e1700d281.webp",
+    "index.html": "/portfolio/index.html",
+    "main.0574a33f.css.map": "/portfolio/static/css/main.0574a33f.css.map",
+    "main.bb25c8be.js.map": "/portfolio/static/js/main.bb25c8be.js.map",
+    "990.c6a7ee28.chunk.css.map": "/portfolio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.190edf9b.chunk.js.map": "/portfolio/static/js/990.190edf9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0574a33f.css",
+    "static/js/main.bb25c8be.js"
+  ]
+}
