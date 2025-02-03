@@ -21,7 +21,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/" className="logo">
+        <a href="/portfolio" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">{greeting.username}</span>
           <span className="grey-color">/&gt;</span>
@@ -37,27 +37,27 @@ function Header() {
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           {viewSkills && (
             <li>
-              <a href="/">Home</a>
+              <a href="/portfolio">Home</a>
             </li>
           )}
           {viewExperience && (
             <li>
-              <a href="/about">About</a>
+              <a href="/portfolio/about">About</a>
             </li>
           )}
           {viewOpenSource && (
             <li>
-              <a href="/work">Work</a>
+              <a href="/portfolio/work">Work</a>
             </li>
           )}
           
           {viewResume && (
             <li>
-              <a href="/portfolio">Portfolio</a>
+              <a href="/portfolio/projects">Portfolio</a>
             </li>
           )}
           <li>
-            <a href="/contact">Contact Me</a>
+            <a href="/portfolio/contact">Contact Me</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
