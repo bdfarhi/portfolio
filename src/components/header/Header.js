@@ -42,22 +42,22 @@ function Header() {
           )}
           {viewExperience && (
             <li>
-              <a href="/portfolio/about">About</a>
+              <a href="/about">About</a>
             </li>
           )}
           {viewOpenSource && (
             <li>
-              <a href="/portfolio/work">Work</a>
+              <a href="/work">Work</a>
             </li>
           )}
           
           {viewResume && (
             <li>
-              <a href="/portfolio/projects">Portfolio</a>
+              <a href="/projects">Portfolio</a>
             </li>
           )}
           <li>
-            <a href="/portfolio/contact">Contact Me</a>
+            <a href="/contact">Contact Me</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
