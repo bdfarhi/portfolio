@@ -21,7 +21,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/portfolio" className="logo">
+        <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">{greeting.username}</span>
           <span className="grey-color">/&gt;</span>
@@ -37,7 +37,7 @@ function Header() {
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           {viewSkills && (
             <li>
-              <a href="/portfolio">Home</a>
+              <a href="/">Home</a>
             </li>
           )}
           {viewExperience && (
